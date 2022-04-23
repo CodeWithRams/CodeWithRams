@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWithRams
 - 👀 I’m interested in Coding
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @codewithrams on instagram
+- 📫 Reach me @codewithrams on instagram
 
 <!---
 CodeWithRams/CodeWithRams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
